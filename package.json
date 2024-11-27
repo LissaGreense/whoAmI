@@ -2,7 +2,7 @@
   "name": "who-am-i",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://LissaGreense.github.io/whoAmI",
+  "homepage": "https://lissagreense.github.io/whoAmI/",
   "type": "module",
   "scripts": {
     "dev": "vite",
